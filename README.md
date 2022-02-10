@@ -1,6 +1,11 @@
 <h1 align="center">Hello 👋, I'm MAGASSOUBA Bagaly Fodé</h1>
 <h3 align="center">A passionate web developer</h3>
 
+<div align="center">
+  <img src ="./1592280720444.jfif" />
+  
+</div>
+
 ## 👨🏻‍💻 About Me:
 
 <img align="right" height="290px" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
