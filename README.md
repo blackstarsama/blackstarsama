@@ -10,13 +10,15 @@
 
 <img align="right" height="290px" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
-- 🔭 I’m currently working on `**Something Intrestingg**`
+- 🔭 I’m currently working on `Something Intresting`
 
-- 🌱 I’m currently learning **Strapi and Vuejs**
+- 🌱 I’m currently learning `Strapi and Vuejs`
 
-- 👯 I’m looking to collaborate on **Dev projects**
+- 👯 I’m looking to collaborate on `Dev projects`
 
-- 💬 Ask me about **Anything, except Python**
+- 💬 Ask me about `Anything, except Python`
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
